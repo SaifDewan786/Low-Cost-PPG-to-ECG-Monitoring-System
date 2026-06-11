@@ -1,6 +1,6 @@
 # License and Usage
 
-Copyright © 2026 Al Mahfuz. All rights reserved.
+Copyright © 2026 Dewan Mohammad Saif. All rights reserved.
 
 This repository is provided for portfolio and documentation purposes only.
 
