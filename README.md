@@ -177,7 +177,7 @@ The custom acquisition setup was designed to be low-cost, accessible, and suitab
 | Fingertip pulse oximeter       | Practical rhythm/stability reference       |
 | Breadboard and jumper wires    | Prototype assembly                         |
 | USB connection                 | Power and data transfer                    |
-| Physical support/enclosure     | Finger placement and acquisition stability |
+| Custom physical enclosure      | Engineered to mitigate ambient light interference and standardize finger placement for raw signal stability. |
 
 ### Why MAX30102?
 
