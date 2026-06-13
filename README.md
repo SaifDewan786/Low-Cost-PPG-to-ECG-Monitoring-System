@@ -53,6 +53,7 @@ This project is ongoing.
 * Custom PPG recording workflow
 * Benchmark reconstruction experiments
 * Custom-device transfer observation
+* Mitigated ambient environmental noise and raw signal drift through physical hardware stabilization and signal-level AC-DC extraction optimization.
 * BPM comparison workflow
 * Web-based visualization/demo interface
 * Project documentation and public-safe result summaries
