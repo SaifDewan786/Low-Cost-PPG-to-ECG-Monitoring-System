@@ -395,7 +395,7 @@ The system could process low-cost PPG recordings and produce ECG-like waveform o
 * Derivative-enhanced PPG input provides richer signal representation than raw PPG alone.
 * The TCN encoder-decoder model can preserve meaningful rhythm and waveform structure in benchmark testing.
 * Low-cost custom PPG acquisition is possible using MAX30102 and ESP32.
-* Custom-device signals are noisier and more variable than benchmark datasets.
+* While custom-device signals are inherently noisier than benchmark datasets, introducing a custom enclosure and optimizing AC-DC separation logic significantly stabilized the raw input for model inference.
 * Rhythm-level transfer is more reliable than detailed ECG morphology transfer on custom-device PPG.
 * Benchmark performance does not guarantee reliable real-device morphology reconstruction.
 * Paired custom PPG-ECG data is necessary for stronger validation.
